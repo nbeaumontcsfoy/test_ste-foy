@@ -7,3 +7,7 @@ David Lavigne
 Ahmed Gomy  
 Raphael Bouchard-Tremblay  
 Ricardo Samedi  
+
+### Contributeurs hiver 2026
+Nicolas Beaumont
+
